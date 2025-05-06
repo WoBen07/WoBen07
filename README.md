@@ -4,7 +4,7 @@ I'm Ben, a computer science student, developer, hobbyist from Germany!
 <!--
 **WoBen07/WoBen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Here are some infos about me:
 
 - 🔭 I’m currently working on an online RTS Game with my own graphics and logic :)
 - 🌱 I’m currently learning how to use Vue.js properly
